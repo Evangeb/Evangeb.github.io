@@ -1,4 +1,5 @@
 name: Evan Gebhardt
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
-gems: ['jekyll/scholar']
+plugins:
+  - jekyll-scholar

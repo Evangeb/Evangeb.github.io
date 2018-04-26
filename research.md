@@ -6,7 +6,7 @@ permalink: /research/
 
 
 
-This is my research seciton
+This is my research section
 
 
 

@@ -4,5 +4,5 @@ title: Datasets
 permalink: /datasets/
 ---
 
-This is my datasets seciton
+This is my datasets section
 
